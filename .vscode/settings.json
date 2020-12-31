@@ -1,0 +1,22 @@
+{
+  "[typescript]": {
+    "editor.formatOnSave": true
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "prettier.disableLanguages": ["javascript", "javascriptreact"],
+  "prettier.printWidth": 100,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.arrowParens": "avoid",
+  "prettier.trailingComma": "none",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "compile-hero.disable-compile-files-on-did-save-code": true,
+  "git.ignoreLimitWarning": true
+}
